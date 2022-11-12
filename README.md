@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Hey, professionally I'm a Platform Engineer (SRE, DevOps, DataOps), designing and building toolchains and workflows that enable self-service capabilities for software engineering in the cloud-native era. Working on an integrated product most often referred to as an “Internal Developer Platform” covering the operational necessities of the entire lifecycle of an application. Currently  doing my Master of Science degree at the Aeronautics Institute of Technology - [ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics). Dev with ♥ for Ops!
+Hey, professionally I'm a Platform Engineer (SRE, DevOps, DataOps), designing and building toolchains and workflows that enable self-service capabilities for software engineering in the cloud-native era. Working on an integrated product most often referred to as an “Internal Developer Platform” covering the operational necessities of the entire lifecycle of an application. Currently  doing my Master of Science degree at the Aeronautics Institute of Technology - [ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics). 
 
 - 🔭 I’m currently working on [iti itau](https://iti.itau);
 - 🌱 I’m currently learning golang,aws,k8s,istio,terraform;
