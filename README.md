@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-In the ever-evolving landscape of technology, where the boundaries of possibility are constantly being redefined, I stand as a Platform Engineer—a pioneer in the cloud-native era. My work is not just about building systems; it's about crafting the digital ecosystems that empower the creators of tomorrow. With a focus on SRE, DevOps, and DataOps, I design and construct toolchains and workflows that enable software engineers to operate with unprecedented autonomy. This integrated product, often referred to as an "Internal Developer Platform," is not merely a tool but a catalyst for innovation, covering the operational necessities of an application's entire lifecycle.
+In the ever-evolving landscape of technology, where the boundaries of possibility are constantly being redefined, I stand as a Data Platform Engineer—a pioneer in the cloud-native era. My work is not just about building systems; it's about crafting the digital ecosystems that empower the creators of tomorrow. With a focus on SRE, DevOps, and DataOps, I design and construct toolchains and workflows that enable software engineers to operate with unprecedented autonomy. This integrated product, often referred to as an "Internal Developer Platform," is not merely a tool but a catalyst for innovation, covering the operational necessities of an application's entire lifecycle.
 
 Amidst this technological odyssey, I am also pursuing a Master of Science degree at the Aeronautics Institute of Technology ([ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics)). Here, I dive deeper into the intricate weave of science and technology, further sharpening the tools of my trade. It is a journey that bridges the abstract with the tangible, the theoretical with the practical—a true fusion of mind and matter.
 
@@ -14,9 +14,10 @@ Amidst this technological odyssey, I am also pursuing a Master of Science degree
 
 In a world that often demands specialization, I embrace the paradox of being a generalist with a specialist's precision. Curiosity drives me—a relentless pursuit of knowledge that knows no bounds. I am fast to learn, my mind a labyrinth of interconnected ideas, always seeking to understand the broader tapestry of existence. My path is shaped by High Abilities/Giftedness (HA/G) and Asperger's (SA), with a focus on every day elevate my potential across intellectual, academic, leadership, psychomotor, and artistic realms. It is not just about being more; it is about seeing more—grasping the threads that bind disparate disciplines into a coherent whole.
 
-- 🔭 I’m currently working on [itau bank](https://www.itau.com.br); 
-- 🌱 I’m currently learning golang;
-- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes), [AWS](https://github.com/aws), [Golang](https://github.com/golang) and [HashiCorp](https://github.com/hashicorp) official projects;
+- 🔭 I’m currently working on [itau bank](https://www.itau.com.br);
+- 🌱 I’m currently coding with Python and Golang;
+- ⚡ I’m currently learning about Data Engineering, Data Science, Artificial Inteligence and Complex Systems;
+- 👯 Always looking to collaborate on [Kubernetes](https://github.com/kubernetes), [AWS](https://github.com/aws), [Golang](https://github.com/golang) and [HashiCorp](https://github.com/hashicorp) official projects;
 - 🤔 I’m looking for help with  Kubernetes, AWS, Golang and HashiCorp projects.
 - 💬 Ask me about Kubernetes, AWS, Golang, Python and HashiCorp projects;
 - 📫 How to reach me: [Blog](https://www.richardsonlima.com.br), [Twitter](https://twitter.com/RichDevSecOps), [LinkedIn](https://www.linkedin.com/in/richardsonlima/);
