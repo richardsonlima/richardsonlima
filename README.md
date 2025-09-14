@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-In the ever-shifting landscape of technology, where the boundaries of possibility are constantly redrawn, I stand as a Data & Software Engineer navigating the cloud-native and data-driven era. My work goes beyond building systems; it is about shaping digital ecosystems and intelligent platforms that empower the creators of tomorrow.  
+In the ever shifting landscape of technology, where the boundaries of possibility are constantly redrawn, I stand as a Data & Software Engineer navigating the cloud-native and data-driven era. My work goes beyond building systems; it is about shaping digital ecosystems and intelligent platforms that empower the creators of tomorrow.  
 
-With a strong foundation in UNIX internals, SRE, DevOps, DataOps, and Red team offensive security (pentest), my career has been deeply focused on Software Engineering, Data Engineering, Machine Learning, and Data Science. I design and implement architectures, toolchains, and workflows that give engineers unprecedented autonomy. This integrated approach—embodied in Internal Developer Platforms and modern data platforms—is more than a collection of tools: it is a catalyst for innovation, supporting the ful...
+With a strong foundation in UNIX internals, SRE, DevOps, DataOps, and Red team offensive security (pentest), my career has been deeply focused on Software Engineering, Data Engineering, Machine Learning, and Data Science. I design and implement architectures, toolchains, and workflows that give engineers unprecedented autonomy. This integrated approach embodied in Internal Developer Platforms and modern data platforms is more than a collection of tools: it is a catalyst for innovation, supporting the ful...
 Parallel to this technological journey, I am pursuing a Master of Science degree at the Aeronautics Institute of Technology ([ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics)). There, I dive deeper into the intricate weave of science and technology, sharpening the tools of my trade and bridging theory with practice—a true fusion of mind and matter.
 
 ---
@@ -17,7 +17,7 @@ Parallel to this technological journey, I am pursuing a Master of Science degree
 
 In a world that often demands narrow specialization, I embrace the paradox of being a generalist with the precision of a specialist. Curiosity drives me: a restless pursuit of knowledge that knows no boundaries. My mind thrives on connections, weaving ideas across disciplines into a coherent whole.  
 
-My path is shaped by a daily commitment to elevate potential across intellectual, academic, leadership, psychomotor, and artistic realms. It is not merely about being more; it is about seeing more—tracing the hidden threads that bind seemingly disparate domains.
+My path is shaped by a daily commitment to elevate potential across intellectual, academic, leadership, psychomotor, and artistic realms. It is not merely about being more; it is about seeing more tracing the hidden threads that bind seemingly disparate domains.
 
 ---
 
