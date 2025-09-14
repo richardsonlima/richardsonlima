@@ -6,57 +6,57 @@
 Here are some ideas to get you started:
 -->
 
-In the ever-evolving landscape of technology, where the boundaries of possibility are constantly being redefined, I stand as a Data Platform Engineer—a pioneer in the cloud-native era. My work is not just about building systems; it's about crafting the digital ecosystems that empower the creators of tomorrow. With a focus on SRE, DevOps, and DataOps, I design and construct toolchains and workflows that enable software engineers to operate with unprecedented autonomy. This integrated product, often referred to as an "Internal Developer Platform," is not merely a tool but a catalyst for innovation, covering the operational necessities of an application's entire lifecycle.
+In the ever-shifting landscape of technology, where the boundaries of possibility are constantly redrawn, I stand as a Data & Software Engineer navigating the cloud-native and data-driven era. My work goes beyond building systems; it is about shaping digital ecosystems and intelligent platforms that empower the creators of tomorrow.  
 
-Amidst this technological odyssey, I am also pursuing a Master of Science degree at the Aeronautics Institute of Technology ([ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics)). Here, I dive deeper into the intricate weave of science and technology, further sharpening the tools of my trade. It is a journey that bridges the abstract with the tangible, the theoretical with the practical—a true fusion of mind and matter.
+With a strong foundation in UNIX internals, SRE, DevOps, DataOps, and Red team offensive security (pentest), my career has been deeply focused on Software Engineering, Data Engineering, Machine Learning, and Data Science. I design and implement architectures, toolchains, and workflows that give engineers unprecedented autonomy. This integrated approach—embodied in Internal Developer Platforms and modern data platforms—is more than a collection of tools: it is a catalyst for innovation, supporting the ful...
+Parallel to this technological journey, I am pursuing a Master of Science degree at the Aeronautics Institute of Technology ([ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics)). There, I dive deeper into the intricate weave of science and technology, sharpening the tools of my trade and bridging theory with practice—a true fusion of mind and matter.
+
+---
 
 ### The Paradox of the Generalist Specialist
 
-In a world that often demands specialization, I embrace the paradox of being a generalist with a specialist's precision. Curiosity drives me—a relentless pursuit of knowledge that knows no bounds. I am fast to learn, my mind a labyrinth of interconnected ideas, always seeking to understand the broader tapestry of existence. My path is shaped with a focus on every day elevate my potential across intellectual, academic, leadership, psychomotor, and artistic realms. It is not just about being more; it is about seeing more—grasping the threads that bind disparate disciplines into a coherent whole.
+In a world that often demands narrow specialization, I embrace the paradox of being a generalist with the precision of a specialist. Curiosity drives me: a restless pursuit of knowledge that knows no boundaries. My mind thrives on connections, weaving ideas across disciplines into a coherent whole.  
 
-- 🔭 I’m currently working on [itau bank](https://www.itau.com.br);
-- 🌱 I’m currently coding with Python and Golang;
-- ⚡ I’m currently learning about Data Engineering, Data Science, Artificial Inteligence and Complex Systems;
-- 👯 Always looking to collaborate on [Kubernetes](https://github.com/kubernetes), [AWS](https://github.com/aws), [Golang](https://github.com/golang) and [HashiCorp](https://github.com/hashicorp) official projects;
-- 🤔 I’m looking for help with  Kubernetes, AWS, Golang and HashiCorp projects.
-- 💬 Ask me about Kubernetes, AWS, Golang, Python and HashiCorp projects;
-- 📫 How to reach me: [Blog](https://www.richardsonlima.com.br), [Twitter](https://twitter.com/RichDevSecOps), [LinkedIn](https://www.linkedin.com/in/richardsonlima/);
-- ⚡ Fun fact: My intellectual pursuits are as diverse as they are profound. I find solace in the harmonies of New Classical Music, where the compositions of [Víkingur Ólafsson](https://www.youtube.com/watch?v=h3-rNMhIyuQ), [Stjepan Hauser](https://www.youtube.com/watch?v=kn1gcjuhlhg), [Ludovico Einaudi](https://www.youtube.com/watch?v=70cfoPloJq8), [Hans Zimmer](https://www.youtube.com/watch?v=kottjfEd7Zw), [Ólafur Arnalds](https://www.youtube.com/watch?v=Kb34JCz5wvY&t=1213s), and [Max Richter](https://www.youtube.com/watch?v=b_YHE4Sx-08) resonate with the rhythms of my soul. The ocean, with its vast, uncharted depths, is both a metaphor and a muse—an embodiment of the infinite possibilities that lie before us. My passions extend to jiujitsu, wellness, discipline, body conditioning, networking, and the intricate art of Drawing with Nanquim—a medium that captures the stark contrast of existence in bold, precise strokes.
+My path is shaped by a daily commitment to elevate potential across intellectual, academic, leadership, psychomotor, and artistic realms. It is not merely about being more; it is about seeing more—tracing the hidden threads that bind seemingly disparate domains.
 
-### A Catalogue of Wisdom
+---
 
-The books I read are the threads that weave the fabric of my understanding. They are not mere collections of words but repositories of wisdom, each offering a glimpse into the complex machinery of reality. My reading list evolves with time, a testament to my ever-expanding quest for knowledge.
+The ocean is my metaphor and muse, a reminder of infinite possibilities. My passions extend to jiujitsu, wellness, body conditioning, networking, and the delicate art of Nanquim drawing, where sharp contrasts capture the essence of existence in bold strokes.
 
-In literature, I traverse a broad intellectual landscape, delving into the following themes:
-- **Business & Finance**: The engines of our global society, driving both innovation and inequality.
-- **Astronomy**: The study of the cosmos, where the laws of nature unfold in their purest form.
-- **Mathematics & Quantum Mechanics**: The languages of the universe, where reality itself is written.
-- **Psychology**: The exploration of the mind, a journey into the depths of human consciousness.
-- **Anime & Manga, Comic Books**: Modern mythologies that reflect our deepest fears and aspirations.
-- **Algorithms, AI, Cryptography**: The building blocks of our digital future, where data becomes power.
-- **Linguistics, Space Exploration, Philosophy**: The disciplines that explore the fundamental questions of existence.
-  
+---
+
 ### The Art of Sound
 
-Music is a language unto itself, a way to express the inexpressible. As a guitarist, I find joy in the intricate patterns of Jazz, the soulful rhythms of Texas blues, and the ethereal melodies of Progressive Rock. Each genre offers a unique lens through which to view the world—a symphony of perspectives that together form the soundtrack of my life. Here are some of the melodies that resonate with my journey:
+Music is a language beyond language, a geometry of the soul, a vibration where time folds into eternity. As a guitarist, I traverse its landscapes as one might walk through galaxies: each note a star, each silence a void that breathes meaning.  
 
-- [[피키라이브] 혁오 - isn't She Lovely](https://www.youtube.com/watch?v=bEq_HIQF3XY&list=RDbEq_HIQF3XY&start_radio=1)
-- [Olivia Dean - Live At The Jazz Cafe](https://www.youtube.com/watch?v=St7G1F4mu_4&t=1572s)
-- [Jeff Healey - As The Years Go Passing By](https://www.youtube.com/watch?v=gIkOaTVu8uM&list=RDgIkOaTVu8uM&start_radio=1)
-- [Stevie Ray Vaughan - Texas Flood - from Live at the El Mocambo](https://www.youtube.com/watch?v=KC5H9P4F5Uk)
-- [Kings Of Convenience - Know How ft. Feist - live at Le Bataclan](https://www.youtube.com/watch?v=HuJOswNKuwo)
-- [Daniel Jobim - Águas de Março - Ao Vivo](https://www.youtube.com/watch?v=achxrz7ixxY&list=RDEMavVpSFR4FaOsgmiSjRFdRg&start_radio=1&rv=ErE2Cpko1XI)
+Every genre opens a different portal—Jazz whispers patterns like constellations, Texas blues cries like an ancient ocean, and Progressive Rock paints horizons where imagination burns brighter than the sun. These pieces form my personal cosmology, a surreal atlas of sound:
+
+⚡ I find inspiration in the works of [Víkingur Ólafsson](https://www.youtube.com/watch?v=h3-rNMhIyuQ), [Stjepan Hauser](https://www.youtube.com/watch?v=kn1gcjuhlhg), [Ludovico Einaudi](https://www.youtube.com/watch?v=70cfoPloJq8), [Hans Zimmer](https://www.youtube.com/watch?v=kottjfEd7Zw), [Ólafur Arnalds](https://www.youtube.com/watch?v=Kb34JCz5wvY&t=1213s), and [Max Richter](https://www.youtube.com/watch?v=b_YHE4Sx-08). 
+
+---
 
 ### Inspirational Quotes
 
-> “Listen within yourself and look into the infinitude of Space and Time. There can be heard the songs of the Constellations, the voices of the Numbers, and the harmonies of the Spheres.”
+“Listen within yourself and look into the infinitude of Space and Time. There can be heard the songs of the Constellations, the voices of the Numbers, and the harmonies of the Spheres.”  
 
-> “The present issues from the past, and the future from the present. Everything is made one by this continuity. Time is like a circle, where all the points are so linked that one cannot say where it begins or ends, for all points precede and follow one another forever.”
+“The present issues from the past, and the future from the present. Everything is made one by this continuity. Time is like a circle, where all the points are so linked that one cannot say where it begins or ends, for all points precede and follow one another forever.”  
 
-> “Quod enim est erit semper”
+“Quod enim est erit semper.”  
 
-> “Close your eyes and let the mind expand. Let no fear of death or darkness arrest its course. Allow the mind to merge with Mind. Let it flow out upon the great curve of consciousness. Let it soar on the wings of the great bird of duration, up to the very Circle of Eternity.”
+“Close your eyes and let the mind expand. Let no fear of death or darkness arrest its course. Allow the mind to merge with Mind. Let it flow out upon the great curve of consciousness. Let it soar on the wings of the great bird of duration, up to the very Circle of Eternity.”  
 
-> “In this vast cosmos of knowledge, technology, and art, I find myself not just as an observer but as a participant—a creator of systems, a seeker of truth, and a weaver of dreams. The future is not something that happens"
+“In this vast cosmos of knowledge, technology, and art, I find myself not just as an observer but as a participant—a creator of systems, a seeker of truth, and a weaver of dreams. The future is not something that happens; it is something we tune into, like a hidden frequency of the universe.”  
+
+---
+
+- 📫 Reach me: [Blog](https://www.richardsonlima.com.br), [Twitter](https://twitter.com/RichDevSecOps), [LinkedIn](https://www.linkedin.com/in/richardsonlima/)  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=richardsonlima&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
+
+![](https://i.imgsafe.org/60/607aec4f21.png)
+![](https://i.imgsafe.org/60/6078e2a31f.png)
+![](https://i.imgsafe.org/60/60775a2051.png)
+
+---
+
+*Here, code and cosmos meet.*
