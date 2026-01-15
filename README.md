@@ -1,62 +1,33 @@
 ### Hi there 👋
 
-<!--
-**richardsonlima/richardsonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In an ever shifting technological landscape, where complexity grows faster than abstractions, I work as a Software & Data and Machine Learning Engineer focused on building resilient, cloud native, and intelligence driven platforms, currently with focus on GenAI (agent pattern, data retrieval, multi agent protocol). My work is not just about delivering systems, but about designing digital ecosystems that scale human potential and enable engineers to operate with clarity, autonomy, and purpose.
 
-Here are some ideas to get you started:
--->
+# About Me
 
-In the ever shifting landscape of technology, where the boundaries of possibility are constantly redrawn, I stand as a Data & Software Engineer navigating the cloud-native and data-driven era. My work goes beyond building systems; it is about shaping digital ecosystems and intelligent platforms that empower the creators of tomorrow.  
+With over 15 years of experience architecting and securing large-scale technology environments, my career has been a journey through the core of computing—from the rigors of **UNIX Systems Administration** and **Offensive Security** to the modern paradigms of **Software Engineering, CloudOps, DevOps, SRE, and DataOps.**
 
-With a strong foundation in UNIX internals, SRE, DevOps, DataOps, and Red team offensive security (pentest), my career has been deeply focused on Software Engineering, Data Engineering, Machine Learning, and Data Science. I design and implement architectures, toolchains, and workflows that give engineers unprecedented autonomy. This integrated approach embodied in Internal Developer Platforms and modern data platforms is more than a collection of tools: it is a catalyst for innovation, supporting the ful...
-Parallel to this technological journey, I am pursuing a Master of Science degree at the Aeronautics Institute of Technology ([ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics)). There, I dive deeper into the intricate weave of science and technology, sharpening the tools of my trade and bridging theory with practice—a true fusion of mind and matter.
+Today, my professional focus has converged at the intersection of **Artificial Intelligence and System Dependability** within the high-stakes world of Banking and Financial Technology.
+
+### Professional Evolution & Current Focus
+After a long career mastering the full stack of modern infrastructure, I am now fully dedicated to:
+
+* **AI-Driven Resilience:** Applying Machine Learning to predict, detect, and mitigate failure modes in complex financial ecosystems.
+
+### Academic Research
+I am currently a Master's Researcher at the **Technological Institute of Aeronautics [ITA](https://www.timeshighereducation.com/world-university-rankings/technological-institute-aeronautics)**. My research focuses on the **MECADE** model a framework designed to integrate Chaos Engineering into the dependability assessment of financial institutions, ensuring that the global economy’s digital backbone remains resilient under pressure.
 
 ---
 
 ### The Paradox of the Generalist Specialist
 
-In a world that often demands narrow specialization, I embrace the paradox of being a generalist with the precision of a specialist. Curiosity drives me: a restless pursuit of knowledge that knows no boundaries. My mind thrives on connections, weaving ideas across disciplines into a coherent whole.  
+In a world that often rewards narrow specialization, I embrace the paradox of being a generalist with specialist depth. My curiosity is systematic, not scattered. I seek patterns, abstractions, and hidden connections across disciplines, transforming complexity into coherent mental models and practical solutions.
 
-My path is shaped by a daily commitment to elevate potential across intellectual, academic, leadership, psychomotor, and artistic realms. It is not merely about being more; it is about seeing more tracing the hidden threads that bind seemingly disparate domains.
-
----
-
-The ocean is my metaphor and muse, a reminder of infinite possibilities. My passions extend to jiujitsu, wellness, body conditioning, networking, and the delicate art of Nanquim drawing, where sharp contrasts capture the essence of existence in bold strokes.
+My daily discipline is shaped by a commitment to growth across intellectual, technical, leadership, and creative dimensions. Progress, to me, is not about accumulation, but about integration. Seeing further by connecting what others treat as isolated domains.
 
 ---
 
-### The Art of Sound
-
-Music is a language beyond language, a geometry of the soul, a vibration where time folds into eternity. As a guitarist, I traverse its landscapes as one might walk through galaxies: each note a star, each silence a void that breathes meaning.  
-
-Every genre opens a different portal—Jazz whispers patterns like constellations, Texas blues cries like an ancient ocean, and Progressive Rock paints horizons where imagination burns brighter than the sun. These pieces form my personal cosmology, a surreal atlas of sound:
-
-⚡ I find inspiration in the works of [Víkingur Ólafsson](https://www.youtube.com/watch?v=h3-rNMhIyuQ), [Stjepan Hauser](https://www.youtube.com/watch?v=kn1gcjuhlhg), [Ludovico Einaudi](https://www.youtube.com/watch?v=70cfoPloJq8), [Hans Zimmer](https://www.youtube.com/watch?v=kottjfEd7Zw), [Ólafur Arnalds](https://www.youtube.com/watch?v=Kb34JCz5wvY&t=1213s), and [Max Richter](https://www.youtube.com/watch?v=b_YHE4Sx-08). 
+The ocean is both metaphor and compass, a reminder of scale, depth, and humility. Beyond technology, my interests include jiujitsu, wellness and body conditioning, meaningful networking, and the quiet precision of nanquim drawing, where contrast, restraint, and intention reveal essence through simplicity.
 
 ---
 
-### Inspirational Quotes
-
-“Listen within yourself and look into the infinitude of Space and Time. There can be heard the songs of the Constellations, the voices of the Numbers, and the harmonies of the Spheres.”  
-
-“The present issues from the past, and the future from the present. Everything is made one by this continuity. Time is like a circle, where all the points are so linked that one cannot say where it begins or ends, for all points precede and follow one another forever.”  
-
-“Quod enim est erit semper.”  
-
-“Close your eyes and let the mind expand. Let no fear of death or darkness arrest its course. Allow the mind to merge with Mind. Let it flow out upon the great curve of consciousness. Let it soar on the wings of the great bird of duration, up to the very Circle of Eternity.”  
-
-“In this vast cosmos of knowledge, technology, and art, I find myself not just as an observer but as a participant—a creator of systems, a seeker of truth, and a weaver of dreams. The future is not something that happens; it is something we tune into, like a hidden frequency of the universe.”  
-
----
-
-- 📫 Reach me: [Blog](https://www.richardsonlima.com.br), [Twitter](https://twitter.com/RichDevSecOps), [LinkedIn](https://www.linkedin.com/in/richardsonlima/)  
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=richardsonlima&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
-
-![](https://i.imgsafe.org/60/607aec4f21.png)
-![](https://i.imgsafe.org/60/6078e2a31f.png)
-![](https://i.imgsafe.org/60/60775a2051.png)
-
----
-
-*Here, code and cosmos meet.*
+- 📫 Reach me: [Github](https://github.com/richardsonlima), [Twitter](https://twitter.com/RichDevSecOps), [LinkedIn](https://www.linkedin.com/in/richardsonlima/)  
