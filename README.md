@@ -6,22 +6,15 @@ In an ever-shifting technological landscape where complexity often outpaces abst
 
 With over 15 years of experience architecting and securing large-scale technology environments, my career has been a journey through the core of computing: from the rigors of **UNIX Systems Administration** and **Offensive Security** to the modern paradigms of **Software Engineering, CloudOps, DevOps, SRE, and DataOps.**
 
-Today, my professional focus has converged at the intersection of **Artificial Intelligence and advanced Machine Learning techniques** within the high-stakes world of Banking and Financial Technology.
-
-
+Today, my professional focus has converged at the intersection of **Artificial Intelligence and advanced Machine Learning techniques**.
 
 ### Professional Evolution & Current Focus
 After a career mastering the full stack of modern infrastructure, I am now fully dedicated to the frontier of **Applied Artificial Intelligence**:
 
 * **Agentic AI Architecture:** Engineering sophisticated **Agent Patterns** using a hybrid of **GenAI (LLMs)** and **deterministic/symbolic** approaches to solve complex reasoning tasks.
-* **Intelligent Orchestration:** Designing high-performance **Data Retrieval** strategies and **Multi-Agent Protocols** tailored for the strict consistency and security requirements of the financial sector.
+* **Intelligent Orchestration:** Designing high-performance **Data Retrieval** strategies and **Multi-Agent Protocols** tailored for the strict consistency and security.
 * **Autonomous Workflows:** Building and scaling infrastructure for autonomous agents: ensuring reliable communication and state management in distributed AI ecosystems.
-
-### Academic Research (ITA)
-Parallel to my professional work, I am a Master's Researcher at the **Technological Institute of Aeronautics (ITA)**. My academic investigation focuses on the **MECADE** model: a framework designed to integrate Chaos Engineering into the dependability assessment of financial institutions, ensuring that the global economy’s digital backbone remains resilient under pressure.
-
-
-
+* 
 ---
 
 ### The Paradox of the Generalist Specialist
@@ -69,5 +62,3 @@ My creative expression finds a home in the quiet precision of **Nanquim drawing*
 In every domain, whether on the mat, the strings, the paper, or the codebase, I seek the **"geometry of truth"** that only emerges when the noise of the world is stripped away.
 
 ---
-
-- 📫 Reach me: [Github](https://github.com/richardsonlima), [Twitter](https://twitter.com/RichDevSecOps), [LinkedIn](https://www.linkedin.com/in/richardsonlima/), [Instagram](https://www.instagram.com/ricklim4a/)
